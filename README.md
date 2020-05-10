@@ -16,6 +16,8 @@
 >* gatsby-image
 >* gatsby-background-image
 >* gatsby-plugin-react-helmet
+>* gatsby-plugin-robots-txt
+>* gatsby-plugin-sitemap
 
 
 ## Install
