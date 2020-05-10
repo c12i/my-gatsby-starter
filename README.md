@@ -15,6 +15,7 @@
 >* gatsby-source-filesystem
 >* gatsby-image
 >* gatsby-background-image
+>* gatsby-plugin-react-helmet
 
 
 ## Install
