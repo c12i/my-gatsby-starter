@@ -1,10 +1,25 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.org/docs/gatsby-config/
- */
+const siteMetadata = {
+  title: `Hello World`,
+  description: `This is my basic starter!`,
+  author: `Collins Muriuki`,
+};
+
+const plugins = [
+  `gatsby-plugin-sass`,
+  `gatsby-plugin-styled-components`,
+  `gatsby-transformer-sharp`,
+  `gatsby-plugin-sharp`,
+  `gatsby-plugin-transition-link`,
+  {
+    resolve: `gatsby-source-filesystem`,
+    options: {
+      name: `images`,
+      path: `${__dirname}/src/images/`,
+    },
+  },
+];
 
 module.exports = {
-  /* Your site config here */
-  plugins: [],
-}
+  siteMetadata,
+  plugins,
+};
