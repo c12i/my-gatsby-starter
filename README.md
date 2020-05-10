@@ -7,14 +7,14 @@
 </p>
 
 > What I start my projects with. These are the plugins inside:
-> *gatsby-plugin-sass
-> *gatsby-plugin-styled-components
-> *gatsby-transformer-sharp
-> *gatsby-plugin-sharp
-> *gatsby-plugin-transition-link (gsap + AniLink)
-> *gatsby-source-filesystem
-> *gatsby-image
-> *gatsby-background-image
+>* gatsby-plugin-sass
+>* gatsby-plugin-styled-components
+>* gatsby-transformer-sharp
+>* gatsby-plugin-sharp
+>* gatsby-plugin-transition-link (gsap + AniLink)
+>* gatsby-source-filesystem
+>* gatsby-image
+>* gatsby-background-image
 
 
 ## Install
