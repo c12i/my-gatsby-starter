@@ -33,6 +33,12 @@ yarn
 gatsby develop
 ```
 
+## Usage as a starter
+
+```sh
+npx gatsby new project-name https://github.com/collinsmuriuki/my-gatsby-starter
+```
+
 ## Author
 
-👤 **collinsmuriuki**
+🕳 **collinsmuriuki**
